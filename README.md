@@ -13,3 +13,7 @@ Procedures for using Homebrew tap `danielskowronski/dsenv` and manually installe
 1. [CONFIGURE macOS](CONFIGURE_macOS.md)
 1. [CONFIGURE GUI](CONFIGURE_GUI.md)
 1. [CONFIGURE other](CONFIGURE_OTHER.md)
+
+## maintenance
+
+1. [WeeklyMaint](PROCEDURE_WeeklyMaint.md)
