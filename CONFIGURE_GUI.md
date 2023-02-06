@@ -142,3 +142,17 @@ keep history: 1 week
 
 + all-in-one: remember
 ```
+
+## BetterDisplay
+
+licence string
+
+### Dummy
+
+single 16:9
+
+### Main
+
+- stream - cropping area: `50.00%` x `100.00%`, relative: X `25.00%` Y `0.00%`
+- stream -> to "Dummy"
+

@@ -6,6 +6,7 @@
 - **LanguageTool Desktop** https://languagetool.org/mac-desktop
 - **Docker Desktop** https://www.docker.com/products/docker-desktop/
 - **XSplit VCam** https://www.xsplit.com/dashboard/main/
+- **BetterDisplay** https://github.com/waydabber/BetterDisplay/releases
 
 ## AppStore
 - **AdBlock Pro**
