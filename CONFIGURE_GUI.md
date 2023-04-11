@@ -1,6 +1,5 @@
 # CONFIGURE GUI
 
-
 ## Bartender
 
 general:
@@ -28,6 +27,18 @@ general:
 
 ### menu bar layout - wide screen
 #### shown
+- ***new items appear here***
+- **spacer**
+- Audio (system)
+- KeePassXC
+- BetterDisplay
+- Dato / next calendar event
+- Dato / calendar
+- **spacer**
+- Dato / optional TZs 1
+- Dato / UTC
+- Dato / CET
+- Data / optional TZs 2
 - **spacer**
 - iStat Menus / CPU
 - iStat Menus / MEM
@@ -37,11 +48,12 @@ general:
 - **spacer**
 - Lungo
 - Focus Mode (system)
-- Flow
 - **spacer**
 - Multipass
 - Docker Desktop
 - **spacer**
+- HazeOver
+- Logitech G HUB
 - Mosaic
 - Pixel Snap
 - CleanShotX
@@ -55,15 +67,16 @@ general:
 - **spacer**
 - VPN (system)
 - WiFi (system)
-- Audio (system)
 - iStat Menus / CALENDAR
 - *Control Center (system)*
 - *Clock (system) - HH:MM:SS*
 #### hidden
 - User Switcher (system)
 - SetApp
+- Alfred
 #### always hidden
-- Scrip tMenu (system)
+- Script tMenu (system)
+- Battery (system)
 
 ## iStatMenus
 

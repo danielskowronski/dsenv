@@ -7,11 +7,11 @@
 - **Docker Desktop** https://www.docker.com/products/docker-desktop/
 - **XSplit VCam** https://www.xsplit.com/dashboard/main/
 - **BetterDisplay** https://github.com/waydabber/BetterDisplay/releases
+- **Alfred**
 
 ## AppStore
 - **AdBlock Pro**
 - **BitWarden**
-- **Focus**
 - **LanguageTool**
 - **Pixelmator Pro**
 - **QR Factory**
@@ -29,3 +29,6 @@
 - **iStatMenus**
 - **CleanShotX**
 - **Bartender**
+- **HazeOver**
+- **Dash**
+- **Dato**

@@ -1,5 +1,19 @@
 # CONFIGURE OTHER
 
+## Alfred
+
+- licence string
+- config TBD
+
+## Dash
+
+- list of collections TBD
+
+## BetterDisplay
+
+- licence string
+- config TBD
+
 ## Lungo
 
 general:
